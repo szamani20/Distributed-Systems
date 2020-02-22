@@ -1,0 +1,13 @@
+dataset/
+data/
+nlp/data/
+.idea/
+*.iml
+*.csv
+.ipynb_checkpoints/
+*.swp
+*.json
+*.users
+*.txt
+tweets/
+__pycache__/
